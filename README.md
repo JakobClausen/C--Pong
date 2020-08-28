@@ -10,4 +10,4 @@ Pong game made with unity and c#
 
 ## Author
 
-* **Jakob Clausen Fridmar** - (https://github.com/JakobClausen)
+* **Jakob Clausen Clausen** - (https://github.com/JakobClausen)
